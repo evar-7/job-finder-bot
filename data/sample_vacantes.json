@@ -1,0 +1,44 @@
+[
+  {
+    "titulo": "Python Backend Developer Junior",
+    "empresa": "Tech Solutions CR",
+    "ubicacion": "Heredia, Costa Rica",
+    "fecha_publicacion": "2026-11-20T00:00:00Z",
+    "url_oferta": "https://www.linkedin.com/jobs/view/100001",
+    "detalles": {
+      "salario": 1200,
+      "moneda": "USD",
+      "modalidad": "Remoto",
+      "nivel": "Junior",
+      "tecnologias": ["Python", "FastAPI", "MongoDB", "Git"]
+    }
+  },
+  {
+    "titulo": "Data & Automation Intern",
+    "empresa": "Pacific Cloud Labs",
+    "ubicacion": "San José, Costa Rica",
+    "fecha_publicacion": "2026-11-22T00:00:00Z",
+    "url_oferta": "https://www.linkedin.com/jobs/view/100002",
+    "detalles": {
+      "salario": 950,
+      "moneda": "USD",
+      "modalidad": "Híbrido",
+      "nivel": "Pasantía / Junior",
+      "tecnologias": ["Python", "SQL", "Docker", "Linux"]
+    }
+  },
+  {
+    "titulo": "Full Stack Junior Engineer",
+    "empresa": "Andes Digital",
+    "ubicacion": "Remoto - LATAM",
+    "fecha_publicacion": "2026-11-24T00:00:00Z",
+    "url_oferta": "https://www.linkedin.com/jobs/view/100003",
+    "detalles": {
+      "salario": 1600,
+      "moneda": "USD",
+      "modalidad": "Remoto",
+      "nivel": "Junior / Semi-Senior",
+      "tecnologias": ["JavaScript", "Node.js", "MongoDB", "Git"]
+    }
+  }
+]
